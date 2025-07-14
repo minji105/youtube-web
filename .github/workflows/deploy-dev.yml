@@ -3,7 +3,7 @@ name: Deploy To Dev S3
 on:
   push:
     branches:
-      - Dev
+      - dev
 
 jobs:
   deploy:
